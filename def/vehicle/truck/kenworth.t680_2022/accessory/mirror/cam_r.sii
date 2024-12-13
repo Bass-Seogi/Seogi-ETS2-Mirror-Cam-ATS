@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_addon_data : cam_r.kt6822.mirror
+{
+	name: "@@cam_rear@@"
+	price: 5500
+	unlock: 2
+	icon: "truck/daf_2021/accessory/mirror/cam_semi"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam6822r.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_int6822r.pmd"
+
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam6822r.pmc"
+	overrides[]: "/def/vehicle/truck/kenworth.t680_2022/accessory/int_display/digital_no.sii"
+}
+}

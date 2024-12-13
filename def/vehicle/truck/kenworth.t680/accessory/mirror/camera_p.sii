@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : camera_p.kt68.mirror
+{
+	name: "@@camera@@ @@paint@@"
+	price: 5050
+	unlock: 10
+	icon: "truck/daf_2021/accessory/mirror/cam_semi"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam68.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_int68p.pmd"
+
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam68.pmc"
+}
+}

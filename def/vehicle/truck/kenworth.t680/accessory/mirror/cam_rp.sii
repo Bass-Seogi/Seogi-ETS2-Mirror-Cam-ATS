@@ -1,0 +1,19 @@
+SiiNunit
+{
+accessory_addon_data : cam_rp.kt68.mirror
+{
+	name: "@@cam_rear@@ @@paint@@"
+	price: 5550
+	unlock: 10
+	icon: "truck/daf_2021/accessory/mirror/cam_semi"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam68r.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_int68rp.pmd"
+
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam68r.pmc"
+
+	suitable_for[]: "exclusive.kenworth.t680.cabin"
+	suitable_for[]: "standard.kenworth.t680.cabin"
+}
+}

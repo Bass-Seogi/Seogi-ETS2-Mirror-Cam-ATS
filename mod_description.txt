@@ -6,7 +6,12 @@ If you find this mod anywhere else, please do not use it as it is illegally leak
 
 
 mack.r
+
 volvo.vnl2018
 kenworth.w900
+
 mack.anthem
 peterbilt.579
+
+kenworth.t680_2022
+kenworth.t680
